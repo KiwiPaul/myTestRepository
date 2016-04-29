@@ -1,0 +1,1 @@
+aws s3 sync f:\backups\logs  s3://backups.s3.win.tracker/production/SQL/logs
